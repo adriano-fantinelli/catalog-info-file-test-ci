@@ -4,7 +4,7 @@ metadata:
   name: catalog-info-file-test-qa
   description: A repository that tests catalog-info.yaml file.
   annotations:
-    backstage.io/source-location: url:https://github.com/adriano-fantinelli/catalog-info-file-test-qa
+    backstage.io/source-location: url:https://github.com/adriano-fantinelli/catalog-info-file-test-ci
   tags:
     - test
 spec:
