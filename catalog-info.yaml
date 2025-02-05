@@ -10,4 +10,4 @@ metadata:
 spec:
   type: component
   lifecycle: development
-  owner: user:qabot
+  owner: user:afantinelli.consultant
